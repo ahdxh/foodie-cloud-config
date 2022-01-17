@@ -1,7 +1,7 @@
 # 数据库连接串 & 密码
 mariadb:
   url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
-  password: '{cipher}260524ed94a0390cc5c0d1c14d88ae8c12cdb1bb5ca06081f383acc5c302b72b'
+  password: '{cipher}37dc95cdc44310e68938ab81964db00ee8da24867466a259f5b5bcdaebd29b0f'
 
 # 功能开关 - 开启/关闭注册功能
 userservice:
